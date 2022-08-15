@@ -96,3 +96,7 @@ touch files;
 echo "回显内容"
 reboot
 ```
+
+## 插入图片
+
+![测试](C://Users//微光//Desktop//xx.jpg)
